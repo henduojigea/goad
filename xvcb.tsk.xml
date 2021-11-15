@@ -1,0 +1,17 @@
+<TaskerData sr="" dvi="1" tv="5.13.6">
+	<Task sr="task70">
+		<cdate>1631281516980</cdate>
+		<edate>1631283384920</edate>
+		<id>70</id>
+		<nme>xvcb</nme>
+		<pri>100</pri>
+		<Action sr="act0" ve="7">
+			<code>342</code>
+			<se>false</se>
+			<Int sr="arg0" val="6"/>
+			<Str sr="arg1" ve="3">文件</Str>
+			<Str sr="arg2" ve="3">%Md5</Str>
+			<Int sr="arg3" val="0"/>
+		</Action>
+	</Task>
+</TaskerData>
