@@ -1,5 +1,7 @@
 ||sdkconfig.ad.xiaomi.com^$important
+! 作业帮
 ||syh.zybang.com^$app=com.baidu.homework
+! 作业帮首页课程
 ||apiugc.zybang.com/feeds/api/homespreadlist
 ||tbm.snssdk.com
 ||jiazhang.zuoyebang.com/parentarith/app/config$app=com.baidu.homework
@@ -10,6 +12,7 @@
 ||shumei-app-thirdpart.zuoyebang.com/v3/profile^$app=com.baidu.homework
 ||syh.zybang.com/com/adx^
 ||pluto.zuoyebang.com/pluto/publish/checkappupdate$app=com.baidu.homework
+! 微信头像
 @@||wx.qlogo.cn^$app=com.tencent.mm
 ||sdkconfig.ad.xiaomi.com^
 ||jxapk.360buyimg.com/build-cms^$app=com.jd.pingou
