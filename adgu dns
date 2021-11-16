@@ -1,0 +1,133 @@
+||m.qianbao.qq.com^
+@@||video-replay.yuanfudao.com^
+@@||solar.fbcontent.cn^
+||gallery.fbcontent.cn/android/ape/images/null
+||onekey.cmpassport.com^
+@@||ape-api.yuanfudao.com^
+@@||xyst.yuanfudao.com^
+||*.yuanfudao.com^
+||leo.fbcontent.cn^
+||leo-online.fbcontent.cn^
+||apiugc.zybang.com^
+||shumei-app-thirdpart.zuoyebang.com^
+||cube.zuoyebang.com^
+||apm.zuoyebang.com^
+||nlogtj.zuoyebang.cc^
+||fmp-notice.zybang.com^
+||notice.zuoyebang.cc^
+||analytics-api-01.smzdm.com^
+||api-access.pangolin-sdk-toutiao.com^
+||tbsrecovery.imtt.qq.com^
+||napi.zybang.com^
+||sanxia.zybang.com^
+||zyb-jiazhang.cdnjtzy.com^
+||jx.zuoyebang.com^
+||abtest.zuoyebang.com^
+||*.bdstatic.com^
+||tb4.bdstatic.com^
+||fc-image.cdn.bcebos.com/*.jpeg^
+||ns-strategy.cdn.bcebos.com/ns-strategy/upload/fc_big_pic/*.jpg^
+||tb3.bdstatic.com/public/img^
+||qqtuan.qq.com^
+||m.client.10010.com/producGame_signin^
+||m.client.10010.com/proMyGameFloor^
+||m.client.10010.com/producGameApp^
+||dg.k.jd.com^
+||adash-emas.cn-hangzhou.aliyuncs.com^
+||yiguan-service.bestpay.cn^
+||dm-hl.toutiao.com^
+||cupdate.client.189.cn:8006/actives^
+||appupdate.189.cn:9301/ClientUpdate/services^
+||appgoad.189.cn^
+||m.client.10010.com/mobileService/query/querySmartClient.htm
+||m.client.10010.com/mobileserviceimportant/startIconQuickEntry/findIconInfomportant
+||m.client.10010.com/mobileService/customerService/getDefaultAddress.htm
+||tnc3-alisc1.snssdk.com^
+||auth.wosms.cn^
+||nisportal.10010.com^
+||pull.free.video.10010.com^
+||m1.ad.10010.com^
+||m.client.10010.com/mobileService/customer/getclientconfig.htm*
+||pushservice.10010.com/pushweb/push^
+||m1.img.10010.com^
+||m.mpl.dutils.com/tcp/config/init^
+||tnc3-bjlgy.snssdk.com^
+||sf3-ttcdn-tos.pstatp.com^
+||m.client.10010.com/js/jquery-1.10.2.min.js^
+||smartad.10010.com^
+||vip.cdnjtzy.com/static/hy/vip-vue/img/normal*.png^
+||sdkconfig.ad.xiaomi.com^
+||syh.zybang.com^
+||apiugc.zybang.com/feeds/api/homespreadlist
+||tbm.snssdk.com^
+||jxconf.zuoyebang.com/jxconf/cloud/frontreqctrl^
+||nlogtj.zuoyebang.cc/nlogtj/rule^
+||jx.zuoyebang.com/frontcourse/teach/summary/studenthascourse^
+||jx-fe.cdnjtzy.com/static/hy/sell-detail/js/chunk^
+||shumei-app-thirdpart.zuoyebang.com/v3/profile^
+||syh.zybang.com/com/adx^
+||pluto.zuoyebang.com/pluto/publish/checkappupdate^
+@@||wx.qlogo.cn^
+||sdkconfig.ad.xiaomi.com^
+||jxapk.360buyimg.com/build-cms^
+||ad.21cn.com^
+||cloud.189.cn/download/client/configs/ad^
+! coolapk
+127.0.0.1 access1.tpns.tencent.com
+127.0.0.1 astrategy.beacon.qq.com.com
+127.0.0.1 ug.snssdk.com
+127.0.0.1 v3-be-pack.pglstatp-toutiao.com
+127.0.0.1 sf3-be-pack.pglstatp-toutiao.com
+127.0.0.1 tobapplog.ctobsnssdk.com
+127.0.0.1 access.pangolin-sdk-toutiao-b.com
+127.0.0.1 ulogs.umengcloud.com
+127.0.0.1 api-access.pangolin-sdk-toutiao-b.com
+127.0.0.1 mssdk-bu.snssdk.com
+127.0.0.1 aaid.umeng.com
+127.0.0.1 img14.360buyimg.com
+127.0.0.1 i.snssdk.com
+127.0.0.1 is.snssdk.com
+127.0.0.1 pangolin.snssdk.com
+127.0.0.1 extlog.snssdk.com
+127.0.0.1 sf3-ttcdn-tos.pstatp.com
+127.0.0.1 bds.snssdk.com
+127.0.0.1 dig.bdurl.net
+127.0.0.1 api-access.pangolin-sdk-toutiao.com
+127.0.0.1 sfl-fe-tos.pglstatp-toutiao.com
+127.0.0.1 sf1-be-pack.pglstatp-toutiao.com
+127.0.0.1 sf3-fe-tos.pglstatp-toutiao.com
+127.0.0.1 log-api.pangolin-sdk-toutiao.com
+127.0.0.1 s3-fe-scm.pglstatp-toutiao.com
+127.0.0.1 s3a.pstatp.com
+127.0.0.1 log-api.pangolin-sdk-toutiao-b.com
+127.0.0.1 sf6-be-pack.pglstatp-toutiao.com
+127.0.0.1 midas.gtimg.cn
+127.0.0.1 game.weixin.qq.com
+127.0.0.1 wxsnsdythumb.wxs.qq.com
+127.0.0.1 oth.eve.mdt.qq.com
+127.0.0.1 wxsnsdythumb.wxs.qq.com
+127.0.0.1 wxsnsdy.wxs.qq.com
+! qq
+127.0.0.1 sdk.e.qq.com
+127.0.0.1 api-access.pangolin-sdk-toutiao-b.com
+127.0.0.1 mssdk-bu.snssdk.com
+127.0.0.1 aaid.umeng.com
+127.0.0.1 img14.360buyimg.com
+127.0.0.1 i.snssdk.com
+127.0.0.1 is.snssdk.com
+127.0.0.1 pangolin.snssdk.com
+127.0.0.1 extlog.snssdk.com
+127.0.0.1 sf3-ttcdn-tos.pstatp.com
+127.0.0.1 bds.snssdk.com
+127.0.0.1 dig.bdurl.net
+127.0.0.1 api-access.pangolin-sdk-toutiao.com
+127.0.0.1 sfl-fe-tos.pglstatp-toutiao.com
+127.0.0.1 sf1-be-pack.pglstatp-toutiao.com
+127.0.0.1 sf3-fe-tos.pglstatp-toutiao.com
+127.0.0.1 log-api.pangolin-sdk-toutiao.com
+127.0.0.1 s3-fe-scm.pglstatp-toutiao.com
+127.0.0.1 s3a.pstatp.com
+127.0.0.1 log-api.pangolin-sdk-toutiao-b.com
+127.0.0.1 sf6-be-pack.pglstatp-toutiao.com
+127.0.0.1 pp.myapp.com
+
