@@ -1,3 +1,5 @@
+||m.qianbao.qq.com^$important
+||media.9game.cn^$app=com.coolapk.market
 @@||video-replay.yuanfudao.com^
 @@||solar.fbcontent.cn^
 ||gallery.fbcontent.cn/android/ape/images/null
@@ -7,7 +9,6 @@
 ||*.yuanfudao.com^
 ||leo.fbcontent.cn^
 ||leo-online.fbcontent.cn^
-||apiugc.zybang.com^
 ||shumei-app-thirdpart.zuoyebang.com^
 ||cube.zuoyebang.com^
 ||apm.zuoyebang.com^
@@ -56,7 +57,6 @@
 ||pull.free.video.10010.com^
 ||m1.ad.10010.com^
 ||m.client.10010.com/mobileService/customer/getclientconfig.htm*
-||pushservice.10010.com/pushweb/push^
 ||m1.img.10010.com^
 ||m.mpl.dutils.com/tcp/config/init$app=com.sinovatech.unicom.ui
 ||tnc3-bjlgy.snssdk.com^$app=com.sinovatech.unicom.ui
@@ -66,7 +66,6 @@
 ||q.qq.com^$app=com.sinovatech.unicom.ui
 ||bvc.bj.baidubce.com^$app=com.sinovatech.unicom.ui
 ||smartad.10010.com^$important
-||m.qianbao.qq.com^important
 ||vip.cdnjtzy.com/static/hy/vip-vue/img/normal*.png|$app=com.baidu.homework
 ||sdkconfig.ad.xiaomi.com^$important
 ||syh.zybang.com^
