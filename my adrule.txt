@@ -1,3 +1,12 @@
+@@||video-replay.yuanfudao.com^
+@@||solar.fbcontent.cn^
+||gallery.fbcontent.cn/android/ape/images/null
+||onekey.cmpassport.com^
+@@||ape-api.yuanfudao.com^
+@@||xyst.yuanfudao.com^
+||*.yuanfudao.com^
+||leo.fbcontent.cn^
+||leo-online.fbcontent.cn^
 ||apiugc.zybang.com^
 ||shumei-app-thirdpart.zuoyebang.com^
 ||cube.zuoyebang.com^
