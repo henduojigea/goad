@@ -31,8 +31,6 @@
 ||zyb-jiazhang.cdnjtzy.com^
 ||jx.zuoyebang.com^
 ||abtest.zuoyebang.com^
-||*.bdstatic.com^
-||tb4.bdstatic.com^
 ||fc-image.cdn.bcebos.com/*.jpeg
 ||ns-strategy.cdn.bcebos.com/ns-strategy/upload/fc_big_pic/*.jpg
 ||tb3.bdstatic.com/public/img^
