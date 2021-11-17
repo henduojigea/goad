@@ -1,3 +1,6 @@
+127.0.0.1 dm-lq.toutiao.com
+127.0.0.1 mllog.jd.com
+127.0.0.1 log-gather-hb.jdcloud.com
 127.0.0.1 client-push.21cn.com
 127.0.0.1 tbsone.imtt.qq.com
 127.0.0.1 cdn.cnbj1.fds.api.mi-img.com
@@ -26,13 +29,11 @@
 127.0.0.1 qqtuan.qq.com
 127.0.0.1 dg.k.jd.com
 127.0.0.1 adash-emas.cn-hangzhou.aliyuncs.com
-127.0.0.1 yiguan-service.bestpay.cn
 127.0.0.1 dm-hl.toutiao.com
 127.0.0.1 cupdate.client.189.cn
 127.0.0.1 appupdate.189.cn
 127.0.0.1 appgoad.189.cn
 127.0.0.1 tnc3-alisc1.snssdk.com
-127.0.0.1 auth.wosms.cn
 127.0.0.1 nisportal.10010.com
 127.0.0.1 pull.free.video.10010.com
 127.0.0.1 m1.ad.10010.com
