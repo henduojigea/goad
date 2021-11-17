@@ -1,5 +1,5 @@
 ||analytics.10010.com^
-@@||gm.mmstat.com^
+@@||gm.mmstat.com^$app=com.eg.android.AlipayGphone
 ||pushservice.10010.com^
 ||m.qianbao.qq.com^$important
 ||media.9game.cn^$app=com.coolapk.market
