@@ -1,3 +1,6 @@
+||dm-lq.toutiao.com^
+||mllog.jd.com^
+||log-gather-hb.jdcloud.com^
 ||client-push.21cn.com^
 @@||api.cloud.189.cn/guns/img/popularServiceIcon/*.png
 ||tbsone.imtt.qq.com^
@@ -42,7 +45,6 @@
 ||m.client.10010.com/producGameApp
 ||dg.k.jd.com^$app=com.coolapk.market
 ||adash-emas.cn-hangzhou.aliyuncs.com^
-||yiguan-service.bestpay.cn^
 ||dm-hl.toutiao.com^
 ||zhuanlan.zhihu.com^$app=com.zhihu.android
 ||www.qq.com^$app=com.zhihu.android
@@ -55,7 +57,6 @@
 ||m.client.10010.com/mobileService/customerService/getDefaultAddress.htm$important
 ||dq.jomodns.com^$app=com.sinovatech.unicom.ui
 ||tnc3-alisc1.snssdk.com^$app=com.sinovatech.unicom.ui
-||auth.wosms.cn^$app=com.sinovatech.unicom.ui
 ||nisportal.10010.com^
 ||pull.free.video.10010.com^
 ||m1.ad.10010.com^
