@@ -20,7 +20,6 @@
 ||analytics-api-01.smzdm.com^
 ||api-access.pangolin-sdk-toutiao.com^
 @@||wgo.mmstat.com^$app=com.eg.android.AlipayGphone
-@@||gm.mmstat.com^$app=com.eg.android.AlipayGphone
 ||tbsrecovery.imtt.qq.com^$app=com.baidu.homework
 ||napi.zybang.com^
 ||sanxia.zybang.com^
