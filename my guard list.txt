@@ -1,5 +1,4 @@
 ||apk.360buyimg.com^
-||*.bdstatic.com^
 ||update.baidu.com^
 ||cnzz.yifenghuyu.com/gdsgshehdf/*.gif^
 ||janicelaura.com/nw21/d2y/*.gif
