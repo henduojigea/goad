@@ -1,6 +1,5 @@
 ||apk.360buyimg.com^
 ||update.baidu.com^
-||cnzz.yifenghuyu.com/gdsgshehdf/*.gif^
 ||janicelaura.com/nw21/d2y/*.gif
 ||cnzz.yifenghuyu.com/gdsgshehdf/*.gif
 ||js.522sw.com/img/*.gif
@@ -50,7 +49,6 @@
 ||tb3.bdstatic.com/public/img^
 ||qqtuan.qq.com^
 ||dnet.mb.qq.com/rsp204$app=com.bankcomm.Bankcomm
-||mivideo.cdn.pandora.xiaomi.com^$app=com.miui.video
 ||m.client.10010.com/producGame_signin^
 ||m.client.10010.com/proMyGameFloor
 ||m.client.10010.com/producGameApp
