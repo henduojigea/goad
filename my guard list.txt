@@ -69,7 +69,7 @@
 ||nisportal.10010.com^
 ||pull.free.video.10010.com^
 ||m1.ad.10010.com^
-||m.client.10010.com/mobileService/customer/getclientconfig.htm*
+||m.client.10010.com/mobileService/customer/getclientconfig.htm^
 ||m1.img.10010.com^
 ||m.mpl.dutils.com/tcp/config/init$app=com.sinovatech.unicom.ui
 ||tnc3-bjlgy.snssdk.com^$app=com.sinovatech.unicom.ui
