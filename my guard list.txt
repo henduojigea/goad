@@ -14,7 +14,7 @@
 ||client-push.21cn.com^
 @@||api.cloud.189.cn/guns/img/popularServiceIcon/*.png
 ||tbsone.imtt.qq.com^
-||dldir1.qq.com/invc/tt/QB/Public/plugin/native_ad*
+||dldir1.qq.com/invc/tt/QB/Public/plugin/native_ad^
 ||analytics.10010.com^
 @@||gm.mmstat.com^$app=com.eg.android.AlipayGphone
 ||pushservice.10010.com^
