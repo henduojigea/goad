@@ -1,3 +1,4 @@
+! 自用规则，部分源于网络
 ||apk.360buyimg.com^
 ||update.baidu.com^
 ||janicelaura.com/nw21/d2y/*.gif
