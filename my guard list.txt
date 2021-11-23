@@ -1,4 +1,21 @@
 ! 自用规则，部分源于网络
+||coolapk.com/^$replace=/{"entityTemplate":apkImageCard.*?}\,//
+||coolapk.com/^$replace=/{"entityId":8639.*?}\,//
+||coolapk.com/^$replace=/{"title":JD\u8fdb\u53e3\u65e5.*? }\,//
+||coolapk.com/^$replace=/{"cardPageName":V8_APP_HEADLINE_AD.*? }\,//
+||coolapk.com/^$replace=/{"cardPageName":V8_APP_HEADLINE.*? }\,//
+||coolapk.com/^$replace=/{"title":\u9ed1\u6708.*? }\,//
+||coolapk.com/v6/page/dataList?$replace=/extra_entities//
+||coolapk.com/v6/feed/detail?$replace=/extra_entities//
+||coolapk.com/v6/feed/detail?$replace=/extra_title//
+||coolapk.com/v6/feed/detail?$replace=/include_goods//
+||119.29.29.99^$app=com.coolapk.market
+||mapi.m.jd.com^
+||tnc3-aliec2.snssdk.com^
+||coolapk.com/^$replace=/{"title":\u4eca\u65e5\u9177\u5b89.*?}\,//
+||coolapk.com/^$replace=/{"entityTemplate":imageCarouselCard_1.*?}\,//
+||cache.ip138.com/banner*
+||cgi.kandian.qq.com^
 ||apk.360buyimg.com^
 ||update.baidu.com^
 ||janicelaura.com/nw21/d2y/*.gif
