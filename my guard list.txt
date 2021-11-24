@@ -1,4 +1,7 @@
 ! 自用规则，部分源于网络
+@@||gm.mmstat.com^
+||mapi.m.jd.com^$app=com.coolapk.market
+||mqtt.zhihu.com^
 ||coolapk.com/^$replace=/{"entityTemplate":apkImageCard.*?}\,//
 ||coolapk.com/^$replace=/{"entityId":8639.*?}\,//
 ||coolapk.com/^$replace=/{"title":JD\u8fdb\u53e3\u65e5.*? }\,//
