@@ -1,4 +1,5 @@
 # 自用规则，部分源于网络
+127.0.0.1 tracking.miui.com
 127.0.0.1 apk.360buyimg.com
 127.0.0.1 update.baidu.com
 127.0.0.1 sspstatic.1905.com
