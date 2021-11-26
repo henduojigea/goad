@@ -58,7 +58,7 @@
 ||api-access.pangolin-sdk-toutiao.com^
 @@||wgo.mmstat.com^$app=com.eg.android.AlipayGphone
 ||tbsrecovery.imtt.qq.com^$app=com.baidu.homework
-||napi.zybang.com^
+||napi.zybang.com^$empty
 ||sanxia.zybang.com^
 ||zyb-jiazhang.cdnjtzy.com^
 ||jx.zuoyebang.com^
