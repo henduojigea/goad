@@ -58,7 +58,7 @@
 ||api-access.pangolin-sdk-toutiao.com^
 @@||wgo.mmstat.com^$app=com.eg.android.AlipayGphone
 ||tbsrecovery.imtt.qq.com^$app=com.baidu.homework
-||napi.zybang.com^$empty
+||napi.zybang.com^
 ||sanxia.zybang.com^
 ||zyb-jiazhang.cdnjtzy.com^
 ||jx.zuoyebang.com^
@@ -100,7 +100,7 @@
 ||smartad.10010.com^$important
 ||vip.cdnjtzy.com/static/hy/vip-vue/img/normal*.png|$app=com.baidu.homework
 ||syh.zybang.com^
-||apiugc.zybang.com/feeds/api/homespreadlist$empty
+||apiugc.zybang.com/feeds/api/homespreadlist
 ||tbm.snssdk.com^
 ||jxconf.zuoyebang.com/jxconf/cloud/frontreqctrl^
 ||nlogtj.zuoyebang.cc/nlogtj/rule^
