@@ -1,4 +1,18 @@
 ! 自用规则，部分源于网络
+||vv.video.qq.com^
+||in.appcenter.ms^
+||www.kanjuwang.net/cr.gif^
+||update.pan.baidu.com^
+@@||krtservice.com^$app=com.tencent.mm
+||www.iiiyx.com^
+||www.mdfsbn.com^
+||jxtest.bolecdn.com^
+||sdk.zhaomiaopu.cn^
+||kepler.jd.com^$app=com.coolapk.market
+||sdkconfig.ad.xiaomi.com^
+||api2.coolapk.com/v6/main/init?exp=0&t=1637906033$app=com.coolapk.market
+||api.coolapk.com/v6/apk/checkUpdate?coolmarket_beta=0$app=com.coolapk.market
+||log.mmstat.com^
 @@||gm.mmstat.com^
 ||mapi.m.jd.com^$app=com.coolapk.market
 ||coolapk.com/^$replace=/{"entityTemplate":apkImageCard.*?}\,//
