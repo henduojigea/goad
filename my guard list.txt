@@ -7,7 +7,6 @@ www.sina.com.cn##DIV.part-t.uni-blk
 www.sina.com.cn##DIV.part-e.uni-blk
 baike.baidu.com##DIV.floatTashuo-list-wrapper
 ||vv.video.qq.com^
-||in.appcenter.ms^
 ||www.kanjuwang.net/cr.gif^
 ||update.pan.baidu.com^
 @@||krtservice.com^$app=com.tencent.mm
