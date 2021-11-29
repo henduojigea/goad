@@ -37,19 +37,9 @@
 ||*.yuanfudao.com^
 ||leo.fbcontent.cn^
 ||leo-online.fbcontent.cn^
-||shumei-app-thirdpart.zuoyebang.com^
-||cube.zuoyebang.com^
-||nlogtj.zuoyebang.cc^
-||fmp-notice.zybang.com^
-||notice.zuoyebang.cc^
 ||analytics-api-01.smzdm.com^
 ||api-access.pangolin-sdk-toutiao.com^
 ||tbsrecovery.imtt.qq.com^
-||napi.zybang.com^
-||sanxia.zybang.com^
-||zyb-jiazhang.cdnjtzy.com^
-||jx.zuoyebang.com^
-||abtest.zuoyebang.com^
 ||tb4.bdstatic.com^
 ||qqtuan.qq.com^
 ||dg.k.jd.com^
@@ -66,9 +56,6 @@
 ||sf3-ttcdn-tos.pstatp.com^
 ||smartad.10010.com^
 ||sdkconfig.ad.xiaomi.com^
-||syh.zybang.com^
-||tbm.snssdk.com^
-||nlogtj.zuoyebang.cc^
 ||ad.21cn.com^
 ! coolapk
 127.0.0.1 access1.tpns.tencent.com
