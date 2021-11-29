@@ -23,6 +23,10 @@
 ! 分
 ||graph.facebook.com^$app=com.bilibili.app.in
 ||log.cmbchina.com^
+@@||wapside.189.cn^
+@@||wt.189.cn^
+@@||xbk.189.cn^$important
+@@||mauvpc-static-resource.weijuju.com^$app=cmb.pb
 m.baidu.com##DIV.brand-entry
 www.sina.com.cn##DIV#footer.footer
 www.sina.com.cn##DIV.part-t.uni-blk
