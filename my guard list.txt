@@ -120,7 +120,6 @@ baike.baidu.com##DIV.floatTashuo-list-wrapper
 ||smartad.10010.com^$important
 ||vip.cdnjtzy.com/static/hy/vip-vue/img/normal*.png|$app=com.baidu.homework
 ||syh.zybang.com^
-||apiugc.zybang.com/feeds/api/homespreadlist
 ||tbm.snssdk.com^
 ||jxconf.zuoyebang.com/jxconf/cloud/frontreqctrl^
 ||nlogtj.zuoyebang.cc/nlogtj/rule^
