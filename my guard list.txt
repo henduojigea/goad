@@ -1,5 +1,37 @@
 ! 自用规则，部分源于网络
+||mivideo.cdn.pandora.xiaomi.com^$media,app=com.miui.video
+@@||cmbimg.com^$app=cmb.pb
+@@||alipayobjects.com^$app=com.eg.android.AlipayGphone
+@@||gw.alipayobjects.com^$app=com.eg.android.AlipayGphone
+||m.baidu.com/sugrec^
+baidu.com$$div[data-log="haokan"]
+baidu.com$$div[data-log="vsearch"]
+baidu.com$$div[data-log="image"]
+baidu.com$$div[data-log="note"]
+baidu.com$$div[data-log="b2b.baidu.com"]
+baidu.com$$div[data-log="ad"]
+baidu.com$$div[data-log="zixun"]
+baidu.com$$div[data-log="zhidao"]
+baidu.com$$div[data-log="tieba"]
+baidu.com$$div[data-log="app"]
+baidu.com$$div[data-log="live"]
+baidu.com$$div[data-log="mobile.baidu.com"]
+@@||mse.jd.com^$app=com.jd.jrapp
+127.0.0.1 v2.gdt.qq.com
+127.0.0.1 mi.gdt.qq.com
+127.0.0.1 183.3.226.36
+||pingcong.rocks^
+@@||mapi.bestpay.com.cn^$app=com.chinatelecom.bestpayclient
+@@||bestpay.cn^$app=com.chinatelecom.bestpayclient
+||fclick.baidu.com^
+m.baidu.com##DIV.c-img-info-mask
+m.baidu.com##A.live-image-content__3YVpZ.c-blocka.no-question-wrapper__msVN9
+m.baidu.com##ARTICLE.c-container._1UaLT.vid-fourfold__1WPrP._1CQx0
+m.baidu.com##DIV.c-line-clamp2.c-vid-title.c-gap-top-lh.c-gap-right-middle.c-font-title2-14,ARTICLE.c-container._1UaLT.vid-hor__1PCui._1CQx0
+||bdstatic.com^$media
+||hls.liveshow.lss-user.baidubce.com^
 ! 作业帮
+||apiugc.zybang.com^$important
 ||tbsrecovery.imtt.qq.com^$app=com.baidu.homework
 ||shumei-app-thirdpart.zuoyebang.com^
 ||cube.zuoyebang.com^
