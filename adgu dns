@@ -1,5 +1,13 @@
 ! 自用规则 部分源于网络
+||m.baidu.com/sugrec^
+127.0.0.1 v2.gdt.qq.com
+127.0.0.1 mi.gdt.qq.com
+127.0.0.1 183.3.226.36
+||pingcong.rocks^
+||fclick.baidu.com^
+||hls.liveshow.lss-user.baidubce.com^
 ! 作业帮
+||apiugc.zybang.com^
 ||shumei-app-thirdpart.zuoyebang.com^
 ||cube.zuoyebang.com^
 ||nlogtj.zuoyebang.cc^
