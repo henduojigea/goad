@@ -21,9 +21,6 @@ baidu.com$$div[data-log="mobile.baidu.com"]
 127.0.0.1 mi.gdt.qq.com
 127.0.0.1 183.3.226.36
 ||pingcong.rocks^
-@@||mapi.bestpay.com.cn^$app=com.chinatelecom.bestpayclient
-@@||bestpay.cn^$app=com.chinatelecom.bestpayclient
-||fclick.baidu.com^
 m.baidu.com##DIV.c-img-info-mask
 m.baidu.com##A.live-image-content__3YVpZ.c-blocka.no-question-wrapper__msVN9
 m.baidu.com##ARTICLE.c-container._1UaLT.vid-fourfold__1WPrP._1CQx0
