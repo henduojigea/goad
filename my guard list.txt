@@ -63,7 +63,6 @@ m.baidu.com##DIV.c-line-clamp2.c-vid-title.c-gap-top-lh.c-gap-right-middle.c-fon
 ||cgi.connect.qq.com^$app=com.baidu.homework
 ||fmp-notice.zybang.com^
 ||notice.zuoyebang.cc^
-||napi.zybang.com^
 ||sanxia.zybang.com^
 ||zyb-jiazhang.cdnjtzy.com^
 ||jx.zuoyebang.com^
