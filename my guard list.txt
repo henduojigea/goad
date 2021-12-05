@@ -22,7 +22,7 @@ m.speedtest.cn##DIV.tools-banner
 @@||cmbchina.com^$app=cmb.pb
 @@||weijuju.com^$app=cmb.pb
 ||127.82.38.80:37803^$network
-||c.tieba.baidu.com/c/s/splashSchedule$app=com.baidu.tieba
+||c.tieba.baidu.com/c/s/splashSchedule
 ||login.sina.com.cn/visitor/signin$app=com.baidu.tieba
 ||180.97.104.167/c/s/newlog$app=com.baidu.tieba
 ||cloud-log.yy.com/api/log^
