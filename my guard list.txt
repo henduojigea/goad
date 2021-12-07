@@ -1,4 +1,8 @@
 ! 自用规则，部分源于网络
+||sinaimg.cn^$app=com.coolapk.market
+||api.coolapk.com/v6/search?type=feedTopic&searchValue=*&page=1&showAnonymous=-1
+||qianbao.qq.com^
+||c.adsco.re^
 ||gdfp.gifshow.com^
 ||bksdksp.video.qq.com^
 ||tbsrecovery.xn--8mq86hdof72iqql9i9a^
@@ -56,7 +60,6 @@ m.smzdm.com##.footer-banner
 ||ddms.jd.com/client/clientlog/doNetApi^
 ||article-api.smzdm.com/detail/catalog^
 ||mivideo.cdn.pandora.xiaomi.com^$media,app=com.miui.video
-@@||cmbimg.com^$app=cmb.pb
 @@||alipayobjects.com^$app=com.eg.android.AlipayGphone
 @@||gw.alipayobjects.com^$app=com.eg.android.AlipayGphone
 ||m.baidu.com/sugrec^
@@ -141,7 +144,6 @@ baike.baidu.com##DIV.floatTashuo-list-wrapper
 ||coolapk.com/v6/feed/detail?$replace=/extra_entities//
 ||coolapk.com/v6/feed/detail?$replace=/extra_title//
 ||coolapk.com/v6/feed/detail?$replace=/include_goods//
-||119.29.29.99^$app=com.coolapk.market
 ||tnc3-aliec2.snssdk.com^
 ||coolapk.com/^$replace=/{"title":\u4eca\u65e5\u9177\u5b89.*?}\,//
 ||coolapk.com/^$replace=/{"entityTemplate":imageCarouselCard_1.*?}\,//
@@ -166,7 +168,6 @@ baike.baidu.com##DIV.floatTashuo-list-wrapper
 ||analytics.10010.com^
 @@||gm.mmstat.com^$app=com.eg.android.AlipayGphone
 ||pushservice.10010.com^
-||m.qianbao.qq.com^$important
 ||9game.cn^$app=com.coolapk.market
 @@||video-replay.yuanfudao.com^
 @@||solar.fbcontent.cn^
