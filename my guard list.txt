@@ -47,7 +47,6 @@ mobile.yangkeduo.com##DIV.pdd-go-to-app
 ||223.6.6.6^$app=com.hicorenational.antifraud
 ||ulogs.umeng.com^
 m.smzdm.com##.footer-banner
-||gtm.krtservice.com/jxcode/api/opt/v1/webLog/save$important
 ||ms.jr.jd.com/gw/generic/base/newna/m/upload^
 ||ms.jr.jd.com/gw/generic/base/newna/m/qryHomePage5ReddotList^
 ||ms.jr.jd.com/gw/generic/aladdin/na/m/getLoadingPicture^
