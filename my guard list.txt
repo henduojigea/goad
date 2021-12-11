@@ -132,7 +132,6 @@ baike.baidu.com##DIV.floatTashuo-list-wrapper
 ||vv.video.qq.com^
 ||www.kanjuwang.net/cr.gif^
 ||update.pan.baidu.com^
-@@||krtservice.com^$app=com.tencent.mm
 ||www.iiiyx.com^
 ||www.mdfsbn.com^
 ||jxtest.bolecdn.com^
