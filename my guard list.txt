@@ -1,4 +1,15 @@
 ! 自用规则，部分源于网络
+||bigdata-behaviordata.189.cn^
+@@||wapact.189.cn^$app=com.ct.client
+@@||api.stackcommerce.net/graphql$domain=stacksocial.com
+||bkssl.bdimg.com/static/wiki-m-lemma/widget/component-n/inlink-n/inlinkPlayer/logMap_9b3e38f.js^
+||track.sohu.com^
+$removeparam=pvid
+$removeparam=event_source
+m.bilibili.com##DIV.launch-app-btn.home-float-openapp
+@@||vali.cp31.ott.cibntv.net^$domain=m.youku.com
+@@||wxforum.sanguosha.cn^$domain=servicewechat.com,app=com.tencent.mm
+||trace.qq.com^
 ||sinaimg.cn^$app=com.coolapk.market
 ||api.coolapk.com/v6/search?type=feedTopic&searchValue=*&page=1&showAnonymous=-1
 ||qianbao.qq.com^
