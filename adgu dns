@@ -64,7 +64,6 @@
 ||mllog.jd.com^
 ||log-gather-hb.jdcloud.com^
 ||client-push.21cn.com^
-@@||api.cloud.189.cn/guns/img/popularServiceIcon/*.png
 ||tbsone.imtt.qq.com^
 ||cdn.cnbj1.fds.api.mi-img.com^
 @@||gm.mmstat.com^
@@ -94,7 +93,7 @@
 ||tnc3-alisc1.snssdk.com^
 ||nisportal.10010.com^
 ||pull.free.video.10010.com^
-||m1.ad.10010.com^$important
+||m1.ad.10010.com^
 ||tnc3-bjlgy.snssdk.com^
 ||sf3-ttcdn-tos.pstatp.com^
 ||smartad.10010.com^
