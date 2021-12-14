@@ -1,145 +1,236 @@
-! 自用规则 部分源于网络
+! 自用规则，部分源于网络
 ||bigdata-behaviordata.189.cn^
-||track.sohu.com
+@@||wapact.189.cn^$app=com.ct.client
+@@||api.stackcommerce.net/graphql$domain=stacksocial.com
+||bkssl.bdimg.com/static/wiki-m-lemma/widget/component-n/inlink-n/inlinkPlayer/logMap_9b3e38f.js^
+||track.sohu.com^
+$removeparam=pvid
+$removeparam=event_source
+m.bilibili.com##DIV.launch-app-btn.home-float-openapp
+@@||vali.cp31.ott.cibntv.net^$domain=m.youku.com
+@@||wxforum.sanguosha.cn^$domain=servicewechat.com,app=com.tencent.mm
+||trace.qq.com^
+||sinaimg.cn^$app=com.coolapk.market
+||api.coolapk.com/v6/search?type=feedTopic&searchValue=*&page=1&showAnonymous=-1
 ||qianbao.qq.com^
 ||c.adsco.re^
+||gdfp.gifshow.com^
+||bksdksp.video.qq.com^
 ||tbsrecovery.xn--8mq86hdof72iqql9i9a^
 ||bksdksp6.video.qq.com^
 ||analytics.map.qq.com^
+||cdn.tgpa.qq.com^$app=com.coolapk.market
 ||aos-cdn-image.amap.com^
 ||jiazhang.zuoyebang.com^
 ||c4-mall.zybang.com^
+||nps.zuoyebang.com/napi/nps/showbubble^
 ||gws.365you.com^
 ||res.12317wan.com^
 ||reports.12317wan.com^
-||logger.jd.com^
+||watchtower-logger.jd.com^
 ||adservice.google.com^
+||i0.hdslb.com^$app=com.coolapk.market
 ||embedlog.duiba.com.cn^
 ||baishancdn.12317wan.com^
-||127.82.38.80
-||gdfp.gifshow.com^
-||bksdksp.video.qq.com^
+m.speedtest.cn##DIV.tools-banner
+||img.zuoyebang.cc/zyb-image/*.gif|^
+@@||cmbchina.com^$app=cmb.pb
+@@||weijuju.com^$app=cmb.pb
+||127.82.38.80:37803^$network
+||c.tieba.baidu.com/c/s/splashSchedule
+||login.sina.com.cn/visitor/signin$app=com.baidu.tieba
+||180.97.104.167/c/s/newlog$app=com.baidu.tieba
+||cloud-log.yy.com/api/log^
+||pn.baidu.com/iad/os_type2_v5.json
+zhidao.baidu.com##DIV.wgt-topic-hot.js-hot-topic
 ||updatesdk.avlyun.com^
 ||qqadapt.qpic.cn^
 ||rpt.cps.qq.com^
 ||log.weixin.qq.com^
+||cc.10010.com/tianyan/sendlog^
+m.weibo.cn##DIV.wrap
+baike.baidu.com##DIV#J_tashuo_recommend.tashuo-recommend
+baike.baidu.com##DIV.BK-after-content-wrapper
+baike.baidu.com##DIV.tashuo-list-content-essence
+m.smzdm.com##DIV.sub-banner
+mobile.yangkeduo.com##DIV.pdd-go-to-app
+||223.5.5.5^$app=com.hicorenational.antifraud
+||223.6.6.6^$app=com.hicorenational.antifraud
 ||ulogs.umeng.com^
+m.smzdm.com##.footer-banner
+||ms.jr.jd.com/gw/generic/base/newna/m/upload^
+||ms.jr.jd.com/gw/generic/base/newna/m/qryHomePage5ReddotList^
+||ms.jr.jd.com/gw/generic/aladdin/na/m/getLoadingPicture^
+@@||wapjx.189.cn^$app=com.tencent.mm
+||in.appcenter.ms/logs^
+@@||pupu.live^$domain=pupu.live
+@@||file-1253773788.file.myqcloud.com^
+||image.coolapk.com/image/*@1080x360.jpg$important
+||image.coolapk.com/goods^$app=com.coolapk.market,important
+||ddms.jd.com/client/clientlog/doNetApi^
+||article-api.smzdm.com/detail/catalog^
+||mivideo.cdn.pandora.xiaomi.com^$media,app=com.miui.video
+@@||alipayobjects.com^$app=com.eg.android.AlipayGphone
+@@||gw.alipayobjects.com^$app=com.eg.android.AlipayGphone
+||m.baidu.com/sugrec^
+baidu.com$$div[data-log="haokan"]
+baidu.com$$div[data-log="vsearch"]
+baidu.com$$div[data-log="image"]
+baidu.com$$div[data-log="note"]
+baidu.com$$div[data-log="b2b.baidu.com"]
+baidu.com$$div[data-log="ad"]
+baidu.com$$div[data-log="zixun"]
+baidu.com$$div[data-log="zhidao"]
+baidu.com$$div[data-log="tieba"]
+baidu.com$$div[data-log="app"]
+baidu.com$$div[data-log="live"]
+baidu.com$$div[data-log="mobile.baidu.com"]
+@@||mse.jd.com^$app=com.jd.jrapp
 127.0.0.1 v2.gdt.qq.com
 127.0.0.1 mi.gdt.qq.com
 127.0.0.1 183.3.226.36
 ||pingcong.rocks^
-||fclick.baidu.com^
+m.baidu.com##DIV.c-img-info-mask
+m.baidu.com##A.live-image-content__3YVpZ.c-blocka.no-question-wrapper__msVN9
+m.baidu.com##ARTICLE.c-container._1UaLT.vid-fourfold__1WPrP._1CQx0
+m.baidu.com##DIV.c-line-clamp2.c-vid-title.c-gap-top-lh.c-gap-right-middle.c-font-title2-14,ARTICLE.c-container._1UaLT.vid-hor__1PCui._1CQx0
+||bdstatic.com^$media
 ||hls.liveshow.lss-user.baidubce.com^
 ! 作业帮
-||apiugc.zybang.com^
+||apiugc.zybang.com^$important
+||tbsrecovery.imtt.qq.com^$app=com.baidu.homework
 ||shumei-app-thirdpart.zuoyebang.com^
 ||cube.zuoyebang.com^
 ||nlogtj.zuoyebang.cc^
+||cgi.connect.qq.com^$app=com.baidu.homework
 ||fmp-notice.zybang.com^
 ||notice.zuoyebang.cc^
 ||sanxia.zybang.com^
 ||zyb-jiazhang.cdnjtzy.com^
 ||jx.zuoyebang.com^
 ||abtest.zuoyebang.com^
+||vip.cdnjtzy.com/static/hy/vip-vue/img/normal*.png|$app=com.baidu.homework
 ||syh.zybang.com^
 ||tbm.snssdk.com^
+||jxconf.zuoyebang.com/jxconf/cloud/frontreqctrl^
+||nlogtj.zuoyebang.cc/nlogtj/rule^
+||jx.zuoyebang.com/frontcourse/teach/summary/studenthascourse
+||jx-fe.cdnjtzy.com/static/hy/sell-detail/js/chunk^$app=com.baidu.homework
+||pluto.zuoyebang.com/pluto/publish/checkappupdate
 ! 分
+||graph.facebook.com^$app=com.bilibili.app.in
 ||log.cmbchina.com^
+@@||wapside.189.cn^
+@@||wt.189.cn^
+@@||xbk.189.cn^$important
+@@||mauvpc-static-resource.weijuju.com^$app=cmb.pb
+m.baidu.com##DIV.brand-entry
+www.sina.com.cn##DIV#footer.footer
+www.sina.com.cn##DIV.part-t.uni-blk
+www.sina.com.cn##DIV.part-e.uni-blk
+baike.baidu.com##DIV.floatTashuo-list-wrapper
 ||vv.video.qq.com^
+||www.kanjuwang.net/cr.gif^
 ||update.pan.baidu.com^
 ||www.iiiyx.com^
 ||www.mdfsbn.com^
 ||jxtest.bolecdn.com^
 ||sdk.zhaomiaopu.cn^
+||kepler.jd.com^$app=com.coolapk.market
 ||sdkconfig.ad.xiaomi.com^
+||api2.coolapk.com/v6/main/init?exp=0&t=1637906033$app=com.coolapk.market
+||api.coolapk.com/v6/apk/checkUpdate?coolmarket_beta=0$app=com.coolapk.market
 ||log.mmstat.com^
-@@||p.qlogo.cn^
-||cgi.kandian.qq.com^
+@@||gm.mmstat.com^
+||mapi.m.jd.com^$app=com.coolapk.market
+||coolapk.com/^$replace=/{"entityTemplate":apkImageCard.*?}\,//
+||coolapk.com/^$replace=/{"entityId":8639.*?}\,//
+||coolapk.com/^$replace=/{"title":JD\u8fdb\u53e3\u65e5.*? }\,//
+||coolapk.com/^$replace=/{"cardPageName":V8_APP_HEADLINE_AD.*? }\,//
+||coolapk.com/^$replace=/{"cardPageName":V8_APP_HEADLINE.*? }\,//
+||coolapk.com/^$replace=/{"title":\u9ed1\u6708.*? }\,//
+||coolapk.com/v6/page/dataList?$replace=/extra_entities//
+||coolapk.com/v6/feed/detail?$replace=/extra_entities//
+||coolapk.com/v6/feed/detail?$replace=/extra_title//
+||coolapk.com/v6/feed/detail?$replace=/include_goods//
 ||tnc3-aliec2.snssdk.com^
+||coolapk.com/^$replace=/{"title":\u4eca\u65e5\u9177\u5b89.*?}\,//
+||coolapk.com/^$replace=/{"entityTemplate":imageCarouselCard_1.*?}\,//
+||cache.ip138.com/banner^
+||cgi.kandian.qq.com^
 ||update.baidu.com^
+||janicelaura.com/nw21/d2y/*.gif
+||cnzz.yifenghuyu.com/gdsgshehdf/*.gif
+||js.522sw.com/img/*.gif
+||rs003.com/img/*.gif
 ||sspstatic.1905.com^
 ||oop.lm685.com^
 ||zhanzhang.toutiao.com^
+||0.98765432100.online/res/1705.gif^
 ||dm-lq.toutiao.com^
 ||mllog.jd.com^
 ||log-gather-hb.jdcloud.com^
 ||client-push.21cn.com^
 @@||api.cloud.189.cn/guns/img/popularServiceIcon/*.png
 ||tbsone.imtt.qq.com^
-||cdn.cnbj1.fds.api.mi-img.com^
-@@||gm.mmstat.com^
+||dldir1.qq.com/invc/tt/QB/Public/plugin/native_ad^
 ||analytics.10010.com^
-||m1.img.10010.com^
+@@||gm.mmstat.com^$app=com.eg.android.AlipayGphone
 ||pushservice.10010.com^
-||m.qianbao.qq.com^
+||9game.cn^$app=com.coolapk.market
 @@||video-replay.yuanfudao.com^
 @@||solar.fbcontent.cn^
+||gallery.fbcontent.cn/android/ape/images/null
 ||onekey.cmpassport.com^
 @@||ape-api.yuanfudao.com^
 @@||xyst.yuanfudao.com^
-||*.yuanfudao.com^
+||yuanfudao.com^
 ||leo.fbcontent.cn^
 ||leo-online.fbcontent.cn^
 ||analytics-api-01.smzdm.com^
 ||api-access.pangolin-sdk-toutiao.com^
-||tbsrecovery.imtt.qq.com^
-||tb4.bdstatic.com^
+@@||wgo.mmstat.com^$app=com.eg.android.AlipayGphone
+||fc-image.cdn.bcebos.com/*.jpeg
+||ns-strategy.cdn.bcebos.com/ns-strategy/upload/fc_big_pic/*.jpg
+||tb3.bdstatic.com/public/img^
 ||qqtuan.qq.com^
-||dg.k.jd.com^
+||dnet.mb.qq.com/rsp204$app=com.bankcomm.Bankcomm
+||m.client.10010.com/producGame_signin^
+||m.client.10010.com/proMyGameFloor
+||m.client.10010.com/producGameApp
+||dg.k.jd.com^$app=com.coolapk.market
 ||adash-emas.cn-hangzhou.aliyuncs.com^
 ||dm-hl.toutiao.com^
-||cupdate.client.189.cn^
-||appupdate.189.cn^
-||appgoad.189.cn^
-||tnc3-alisc1.snssdk.com^
+||zhuanlan.zhihu.com^$app=com.zhihu.android
+||www.qq.com^$app=com.zhihu.android
+||www.taobao.com^$app=com.zhihu.android
+||cupdate.client.189.cn:8006/actives^
+||appupdate.189.cn:9301/ClientUpdate/services^
+||appgoad.189.cn^$important
+||m.client.10010.com/mobileService/query/querySmartClient.htm$important
+||m.client.10010.com/mobileserviceimportant/startIconQuickEntry/findIconInfomportant
+||m.client.10010.com/mobileService/customerService/getDefaultAddress.htm$important
+||dq.jomodns.com^$app=com.sinovatech.unicom.ui
+||tnc3-alisc1.snssdk.com^$app=com.sinovatech.unicom.ui
 ||nisportal.10010.com^
 ||pull.free.video.10010.com^
-||m1.ad.10010.com^$important
-||tnc3-bjlgy.snssdk.com^
-||sf3-ttcdn-tos.pstatp.com^
-||smartad.10010.com^
+||m1.ad.10010.com^
+||m.client.10010.com/mobileService/customer/getclientconfig.htm^
+||m1.img.10010.com^
+||m.mpl.dutils.com/tcp/config/init$app=com.sinovatech.unicom.ui
+||tnc3-bjlgy.snssdk.com^$app=com.sinovatech.unicom.ui
+||api.map.baidu.com^$app=com.sinovatech.unicom.ui
+||sf3-ttcdn-tos.pstatp.com^$app=com.sinovatech.unicom.ui
+||m.client.10010.com/js/jquery-1.10.2.min.js^
+||q.qq.com^$app=com.sinovatech.unicom.ui
+||bvc.bj.baidubce.com^$app=com.sinovatech.unicom.ui
+||smartad.10010.com^$important
+@@||wx.qlogo.cn^$app=com.tencent.mm
 ||sdkconfig.ad.xiaomi.com^
+||jxapk.360buyimg.com/build-cms^
 ||ad.21cn.com^
-! coolapk
-127.0.0.1 access1.tpns.tencent.com
-127.0.0.1 astrategy.beacon.qq.com.com
-127.0.0.1 v3-be-pack.pglstatp-toutiao.com
-127.0.0.1 sf3-be-pack.pglstatp-toutiao.com
-127.0.0.1 tobapplog.ctobsnssdk.com
-127.0.0.1 access.pangolin-sdk-toutiao-b.com
-127.0.0.1 ulogs.umengcloud.com
-127.0.0.1 api-access.pangolin-sdk-toutiao-b.com
-127.0.0.1 pangolin.snssdk.com
-127.0.0.1 extlog.snssdk.com
-127.0.0.1 sf3-ttcdn-tos.pstatp.com
-127.0.0.1 bds.snssdk.com
-127.0.0.1 api-access.pangolin-sdk-toutiao.com
-127.0.0.1 sfl-fe-tos.pglstatp-toutiao.com
-127.0.0.1 sf1-be-pack.pglstatp-toutiao.com
-127.0.0.1 sf3-fe-tos.pglstatp-toutiao.com
-127.0.0.1 log-api.pangolin-sdk-toutiao.com
-127.0.0.1 s3-fe-scm.pglstatp-toutiao.com
-127.0.0.1 log-api.pangolin-sdk-toutiao-b.com
-127.0.0.1 sf6-be-pack.pglstatp-toutiao.com
-! qq
-127.0.0.1 sdk.e.qq.com
-127.0.0.1 api-access.pangolin-sdk-toutiao-b.com
-127.0.0.1 mssdk-bu.snssdk.com
-127.0.0.1 aaid.umeng.com
-127.0.0.1 img14.360buyimg.com
-127.0.0.1 i.snssdk.com
-127.0.0.1 is.snssdk.com
-127.0.0.1 pangolin.snssdk.com
-127.0.0.1 extlog.snssdk.com
-127.0.0.1 sf3-ttcdn-tos.pstatp.com
-127.0.0.1 bds.snssdk.com
-127.0.0.1 dig.bdurl.net
-127.0.0.1 api-access.pangolin-sdk-toutiao.com
-127.0.0.1 sfl-fe-tos.pglstatp-toutiao.com
-127.0.0.1 sf1-be-pack.pglstatp-toutiao.com
-127.0.0.1 sf3-fe-tos.pglstatp-toutiao.com
-127.0.0.1 log-api.pangolin-sdk-toutiao.com
-127.0.0.1 s3-fe-scm.pglstatp-toutiao.com
-127.0.0.1 s3a.pstatp.com
-127.0.0.1 log-api.pangolin-sdk-toutiao-b.com
-127.0.0.1 sf6-be-pack.pglstatp-toutiao.com
+||cloud.189.cn/download/client/configs/ad^
+||download.cloud.189.cn/download/client^$app=com.cn21.ecloud
+||api.cloud.189.cn/guns/img^$app=com.cn21.ecloud
+||cdn.cnbj1.fds.api.mi-img.com^$app=com.duokan.phone.remotecontroller,important
+||img14.360buyimg.com^$app=com.sinovatech.unicom.ui
