@@ -1,6 +1,4 @@
-! 自用规则 部分源于网络
 ||bigdata-behaviordata.189.cn^
-||track.sohu.com
 ||qianbao.qq.com^
 ||c.adsco.re^
 ||tbsrecovery.xn--8mq86hdof72iqql9i9a^
@@ -13,24 +11,18 @@
 ||res.12317wan.com^
 ||reports.12317wan.com^
 ||logger.jd.com^
-||adservice.google.com^
 ||embedlog.duiba.com.cn^
 ||baishancdn.12317wan.com^
-||127.82.38.80
+||127.82.38.80^
 ||gdfp.gifshow.com^
 ||bksdksp.video.qq.com^
 ||updatesdk.avlyun.com^
 ||qqadapt.qpic.cn^
 ||rpt.cps.qq.com^
 ||log.weixin.qq.com^
-||ulogs.umeng.com^
-127.0.0.1 v2.gdt.qq.com
-127.0.0.1 mi.gdt.qq.com
-127.0.0.1 183.3.226.36
+||183.3.226.36^
 ||pingcong.rocks^
-||fclick.baidu.com^
 ||hls.liveshow.lss-user.baidubce.com^
-! 作业帮
 ||apiugc.zybang.com^
 ||shumei-app-thirdpart.zuoyebang.com^
 ||cube.zuoyebang.com^
@@ -42,8 +34,6 @@
 ||jx.zuoyebang.com^
 ||abtest.zuoyebang.com^
 ||syh.zybang.com^
-||tbm.snssdk.com^
-! 分
 ||log.cmbchina.com^
 ||vv.video.qq.com^
 ||update.pan.baidu.com^
@@ -52,8 +42,6 @@
 ||jxtest.bolecdn.com^
 ||sdk.zhaomiaopu.cn^
 ||sdkconfig.ad.xiaomi.com^
-||log.mmstat.com^
-@@||p.qlogo.cn^
 ||cgi.kandian.qq.com^
 ||tnc3-aliec2.snssdk.com^
 ||update.baidu.com^
@@ -66,79 +54,14 @@
 ||client-push.21cn.com^
 ||tbsone.imtt.qq.com^
 ||cdn.cnbj1.fds.api.mi-img.com^
-@@||gm.mmstat.com^
 ||analytics.10010.com^
 ||m1.img.10010.com^
 ||pushservice.10010.com^
 ||m.qianbao.qq.com^
-@@||video-replay.yuanfudao.com^
-@@||solar.fbcontent.cn^
 ||onekey.cmpassport.com^
 @@||ape-api.yuanfudao.com^
 @@||xyst.yuanfudao.com^
-||*.yuanfudao.com^
-||leo.fbcontent.cn^
-||leo-online.fbcontent.cn^
-||analytics-api-01.smzdm.com^
-||api-access.pangolin-sdk-toutiao.com^
-||tbsrecovery.imtt.qq.com^
-||tb4.bdstatic.com^
-||qqtuan.qq.com^
-||dg.k.jd.com^
-||adash-emas.cn-hangzhou.aliyuncs.com^
-||dm-hl.toutiao.com^
-||cupdate.client.189.cn^
-||appupdate.189.cn^
-||appgoad.189.cn^
-||tnc3-alisc1.snssdk.com^
-||nisportal.10010.com^
-||pull.free.video.10010.com^
-||m1.ad.10010.com^
-||tnc3-bjlgy.snssdk.com^
-||sf3-ttcdn-tos.pstatp.com^
-||smartad.10010.com^
-||sdkconfig.ad.xiaomi.com^
-||ad.21cn.com^
-! coolapk
-127.0.0.1 access1.tpns.tencent.com
-127.0.0.1 astrategy.beacon.qq.com.com
-127.0.0.1 v3-be-pack.pglstatp-toutiao.com
-127.0.0.1 sf3-be-pack.pglstatp-toutiao.com
-127.0.0.1 tobapplog.ctobsnssdk.com
-127.0.0.1 access.pangolin-sdk-toutiao-b.com
-127.0.0.1 ulogs.umengcloud.com
-127.0.0.1 api-access.pangolin-sdk-toutiao-b.com
-127.0.0.1 pangolin.snssdk.com
-127.0.0.1 extlog.snssdk.com
-127.0.0.1 sf3-ttcdn-tos.pstatp.com
-127.0.0.1 bds.snssdk.com
-127.0.0.1 api-access.pangolin-sdk-toutiao.com
-127.0.0.1 sfl-fe-tos.pglstatp-toutiao.com
-127.0.0.1 sf1-be-pack.pglstatp-toutiao.com
-127.0.0.1 sf3-fe-tos.pglstatp-toutiao.com
-127.0.0.1 log-api.pangolin-sdk-toutiao.com
-127.0.0.1 s3-fe-scm.pglstatp-toutiao.com
-127.0.0.1 log-api.pangolin-sdk-toutiao-b.com
-127.0.0.1 sf6-be-pack.pglstatp-toutiao.com
-! qq
-127.0.0.1 sdk.e.qq.com
-127.0.0.1 api-access.pangolin-sdk-toutiao-b.com
-127.0.0.1 mssdk-bu.snssdk.com
-127.0.0.1 aaid.umeng.com
-127.0.0.1 img14.360buyimg.com
-127.0.0.1 i.snssdk.com
-127.0.0.1 is.snssdk.com
-127.0.0.1 pangolin.snssdk.com
-127.0.0.1 extlog.snssdk.com
-127.0.0.1 sf3-ttcdn-tos.pstatp.com
-127.0.0.1 bds.snssdk.com
-127.0.0.1 dig.bdurl.net
-127.0.0.1 api-access.pangolin-sdk-toutiao.com
-127.0.0.1 sfl-fe-tos.pglstatp-toutiao.com
-127.0.0.1 sf1-be-pack.pglstatp-toutiao.com
-127.0.0.1 sf3-fe-tos.pglstatp-toutiao.com
-127.0.0.1 log-api.pangolin-sdk-toutiao.com
-127.0.0.1 s3-fe-scm.pglstatp-toutiao.com
-127.0.0.1 s3a.pstatp.com
-127.0.0.1 log-api.pangolin-sdk-toutiao-b.com
-127.0.0.1 sf6-be-pack.pglstatp-toutiao.com
+@@||gm.mmstat.com^
+@@||video-replay.yuanfudao.com^
+@@||solar.fbcontent.cn^
+@@||p.qlogo.cn^
