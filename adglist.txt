@@ -1,14 +1,9 @@
-! 自用规则，部分源于网络
 ||bigdata-behaviordata.189.cn^
-@@||wapact.189.cn^$app=com.ct.client
-@@||api.stackcommerce.net/graphql$domain=stacksocial.com
 ||bkssl.bdimg.com/static/wiki-m-lemma/widget/component-n/inlink-n/inlinkPlayer/logMap_9b3e38f.js^
 ||track.sohu.com^
 $removeparam=pvid
 $removeparam=event_source
 m.bilibili.com##DIV.launch-app-btn.home-float-openapp
-@@||vali.cp31.ott.cibntv.net^$domain=m.youku.com
-@@||wxforum.sanguosha.cn^$domain=servicewechat.com,app=com.tencent.mm
 ||trace.qq.com^
 ||sinaimg.cn^$app=com.coolapk.market
 ||api.coolapk.com/v6/search?type=feedTopic&searchValue=*&page=1&showAnonymous=-1
@@ -34,8 +29,6 @@ m.bilibili.com##DIV.launch-app-btn.home-float-openapp
 ||baishancdn.12317wan.com^
 m.speedtest.cn##DIV.tools-banner
 ||img.zuoyebang.cc/zyb-image/*.gif|^
-@@||cmbchina.com^$app=cmb.pb
-@@||weijuju.com^$app=cmb.pb
 ||127.82.38.80:37803^$network
 ||c.tieba.baidu.com/c/s/splashSchedule
 ||login.sina.com.cn/visitor/signin$app=com.baidu.tieba
@@ -61,17 +54,12 @@ m.smzdm.com##.footer-banner
 ||ms.jr.jd.com/gw/generic/base/newna/m/upload^
 ||ms.jr.jd.com/gw/generic/base/newna/m/qryHomePage5ReddotList^
 ||ms.jr.jd.com/gw/generic/aladdin/na/m/getLoadingPicture^
-@@||wapjx.189.cn^$app=com.tencent.mm
 ||in.appcenter.ms/logs^
-@@||pupu.live^$domain=pupu.live
-@@||file-1253773788.file.myqcloud.com^
 ||image.coolapk.com/image/*@1080x360.jpg$important
 ||image.coolapk.com/goods^$app=com.coolapk.market,important
 ||ddms.jd.com/client/clientlog/doNetApi^
 ||article-api.smzdm.com/detail/catalog^
 ||mivideo.cdn.pandora.xiaomi.com^$media,app=com.miui.video
-@@||alipayobjects.com^$app=com.eg.android.AlipayGphone
-@@||gw.alipayobjects.com^$app=com.eg.android.AlipayGphone
 ||m.baidu.com/sugrec^
 baidu.com$$div[data-log="haokan"]
 baidu.com$$div[data-log="vsearch"]
@@ -85,10 +73,7 @@ baidu.com$$div[data-log="tieba"]
 baidu.com$$div[data-log="app"]
 baidu.com$$div[data-log="live"]
 baidu.com$$div[data-log="mobile.baidu.com"]
-@@||mse.jd.com^$app=com.jd.jrapp
-127.0.0.1 v2.gdt.qq.com
-127.0.0.1 mi.gdt.qq.com
-127.0.0.1 183.3.226.36
+183.3.226.36
 ||pingcong.rocks^
 m.baidu.com##DIV.c-img-info-mask
 m.baidu.com##A.live-image-content__3YVpZ.c-blocka.no-question-wrapper__msVN9
@@ -96,7 +81,8 @@ m.baidu.com##ARTICLE.c-container._1UaLT.vid-fourfold__1WPrP._1CQx0
 m.baidu.com##DIV.c-line-clamp2.c-vid-title.c-gap-top-lh.c-gap-right-middle.c-font-title2-14,ARTICLE.c-container._1UaLT.vid-hor__1PCui._1CQx0
 ||bdstatic.com^$media
 ||hls.liveshow.lss-user.baidubce.com^
-! 作业帮
+!
+作业帮
 ||apiugc.zybang.com^$important
 ||tbsrecovery.imtt.qq.com^$app=com.baidu.homework
 ||shumei-app-thirdpart.zuoyebang.com^
@@ -117,13 +103,10 @@ m.baidu.com##DIV.c-line-clamp2.c-vid-title.c-gap-top-lh.c-gap-right-middle.c-fon
 ||jx.zuoyebang.com/frontcourse/teach/summary/studenthascourse
 ||jx-fe.cdnjtzy.com/static/hy/sell-detail/js/chunk^$app=com.baidu.homework
 ||pluto.zuoyebang.com/pluto/publish/checkappupdate
-! 分
+!
+分
 ||graph.facebook.com^$app=com.bilibili.app.in
 ||log.cmbchina.com^
-@@||wapside.189.cn^
-@@||wt.189.cn^
-@@||xbk.189.cn^$important
-@@||mauvpc-static-resource.weijuju.com^$app=cmb.pb
 m.baidu.com##DIV.brand-entry
 www.sina.com.cn##DIV#footer.footer
 www.sina.com.cn##DIV.part-t.uni-blk
@@ -141,21 +124,12 @@ baike.baidu.com##DIV.floatTashuo-list-wrapper
 ||api2.coolapk.com/v6/main/init?exp=0&t=1637906033$app=com.coolapk.market
 ||api.coolapk.com/v6/apk/checkUpdate?coolmarket_beta=0$app=com.coolapk.market
 ||log.mmstat.com^
-@@||gm.mmstat.com^
 ||mapi.m.jd.com^$app=com.coolapk.market
-||coolapk.com/^$replace=/{"entityTemplate":apkImageCard.*?}\,//
-||coolapk.com/^$replace=/{"entityId":8639.*?}\,//
-||coolapk.com/^$replace=/{"title":JD\u8fdb\u53e3\u65e5.*? }\,//
-||coolapk.com/^$replace=/{"cardPageName":V8_APP_HEADLINE_AD.*? }\,//
-||coolapk.com/^$replace=/{"cardPageName":V8_APP_HEADLINE.*? }\,//
-||coolapk.com/^$replace=/{"title":\u9ed1\u6708.*? }\,//
-||coolapk.com/v6/page/dataList?$replace=/extra_entities//
-||coolapk.com/v6/feed/detail?$replace=/extra_entities//
-||coolapk.com/v6/feed/detail?$replace=/extra_title//
-||coolapk.com/v6/feed/detail?$replace=/include_goods//
+||coolapk.com/^$replace=/{"title":JD\u8fdb\u53e3\u65e5.*?
+||coolapk.com/^$replace=/{"cardPageName":V8_APP_HEADLINE_AD.*?
+||coolapk.com/^$replace=/{"cardPageName":V8_APP_HEADLINE.*?
+||coolapk.com/^$replace=/{"title":\u9ed1\u6708.*?
 ||tnc3-aliec2.snssdk.com^
-||coolapk.com/^$replace=/{"title":\u4eca\u65e5\u9177\u5b89.*?}\,//
-||coolapk.com/^$replace=/{"entityTemplate":imageCarouselCard_1.*?}\,//
 ||cache.ip138.com/banner^
 ||cgi.kandian.qq.com^
 ||update.baidu.com^
@@ -171,25 +145,18 @@ baike.baidu.com##DIV.floatTashuo-list-wrapper
 ||mllog.jd.com^
 ||log-gather-hb.jdcloud.com^
 ||client-push.21cn.com^
-@@||api.cloud.189.cn/guns/img/popularServiceIcon/*.png
 ||tbsone.imtt.qq.com^
 ||dldir1.qq.com/invc/tt/QB/Public/plugin/native_ad^
 ||analytics.10010.com^
-@@||gm.mmstat.com^$app=com.eg.android.AlipayGphone
 ||pushservice.10010.com^
 ||9game.cn^$app=com.coolapk.market
-@@||video-replay.yuanfudao.com^
-@@||solar.fbcontent.cn^
 ||gallery.fbcontent.cn/android/ape/images/null
 ||onekey.cmpassport.com^
-@@||ape-api.yuanfudao.com^
-@@||xyst.yuanfudao.com^
 ||yuanfudao.com^
 ||leo.fbcontent.cn^
 ||leo-online.fbcontent.cn^
 ||analytics-api-01.smzdm.com^
 ||api-access.pangolin-sdk-toutiao.com^
-@@||wgo.mmstat.com^$app=com.eg.android.AlipayGphone
 ||fc-image.cdn.bcebos.com/*.jpeg
 ||ns-strategy.cdn.bcebos.com/ns-strategy/upload/fc_big_pic/*.jpg
 ||tb3.bdstatic.com/public/img^
@@ -225,7 +192,6 @@ baike.baidu.com##DIV.floatTashuo-list-wrapper
 ||q.qq.com^$app=com.sinovatech.unicom.ui
 ||bvc.bj.baidubce.com^$app=com.sinovatech.unicom.ui
 ||smartad.10010.com^$important
-@@||wx.qlogo.cn^$app=com.tencent.mm
 ||sdkconfig.ad.xiaomi.com^
 ||jxapk.360buyimg.com/build-cms^
 ||ad.21cn.com^
@@ -234,3 +200,28 @@ baike.baidu.com##DIV.floatTashuo-list-wrapper
 ||api.cloud.189.cn/guns/img^$app=com.cn21.ecloud
 ||cdn.cnbj1.fds.api.mi-img.com^$app=com.duokan.phone.remotecontroller,important
 ||img14.360buyimg.com^$app=com.sinovatech.unicom.ui
+@@||wapact.189.cn^$app=com.ct.client
+@@||api.stackcommerce.net/graphql$domain=stacksocial.com
+@@||vali.cp31.ott.cibntv.net^$domain=m.youku.com
+@@||wxforum.sanguosha.cn^$domain=servicewechat.com,app=com.tencent.mm
+@@||wx.qlogo.cn^$app=com.tencent.mm
+@@||wgo.mmstat.com^$app=com.eg.android.AlipayGphone
+@@||cmbchina.com^$app=cmb.pb
+@@||weijuju.com^$app=cmb.pb
+@@||wapjx.189.cn^$app=com.tencent.mm
+@@||pupu.live^$domain=pupu.live
+@@||file-1253773788.file.myqcloud.com^
+@@||alipayobjects.com^$app=com.eg.android.AlipayGphone
+@@||gw.alipayobjects.com^$app=com.eg.android.AlipayGphone
+@@||gm.mmstat.com^
+@@||mse.jd.com^$app=com.jd.jrapp
+@@||wapside.189.cn^
+@@||wt.189.cn^
+@@||xbk.189.cn^$important
+@@||mauvpc-static-resource.weijuju.com^$app=cmb.pb
+@@||api.cloud.189.cn/guns/img/popularServiceIcon/*.png
+@@||gm.mmstat.com^$app=com.eg.android.AlipayGphone
+@@||video-replay.yuanfudao.com^
+@@||solar.fbcontent.cn^
+@@||ape-api.yuanfudao.com^
+@@||xyst.yuanfudao.com^
