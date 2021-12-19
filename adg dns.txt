@@ -1,4 +1,14 @@
 ||bigdata-behaviordata.189.cn^
+||tnc3-bjlgy.snssdk.com^
+||access1.tpns.tencent.com^
+||tls-eleme.dingtalk.com^
+||mssdk-bu.snssdk.com^
+||tnc3-alisc1.snssdk.com^
+||tingyun.bestpay.cn^
+||mercury-sdk.snssdk.com^
+||ts.qq.com^
+||bbc.com^
+||byteimg.com^
 ||qianbao.qq.com^
 ||c.adsco.re^
 ||tbsrecovery.xn--8mq86hdof72iqql9i9a^
@@ -65,3 +75,4 @@
 @@||video-replay.yuanfudao.com^
 @@||solar.fbcontent.cn^
 @@||p.qlogo.cn^
+@@||duiba.com.cn^
