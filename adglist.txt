@@ -1,3 +1,19 @@
+||httpdns.zybang.com^
+||dns.weixin.qq.com^
+||api.zhihu.com/log_collect/analysis
+||119.29.29.99^
+||img10.360buyimg.com/mcmktresadmin/jfs/*.jpg?width=1125&height=2080$app=com.jd.jrapp
+||mapi.bestpay.com.cn/mapi/getHomePageAds
+||mercury-sdk.snssdk.com^
+||mgsv.miguvideo.com/app-management/v1/staticcache/settings/provincialsdk/TIP_STYLE$app=com.jx.cmcc.ict.ibelieve
+||mcmm.caiyun.feixin.10086.cn/mcmm/api/IAdvert
+||byteimg.com^$app=com.chinatelecom.bestpayclient
+||mapi.bestpay.com.cn/gapi/growth/byteDance/queryVideoTab^
+||img10.360buyimg.com/mcmktadmin/jfs/t1/*png?width=933&height=180^
+||img10.360buyimg.com/mcmktresadmin/jfs/*.png?width=1125&height=2080$app=com.jd.jrapp
+www.bilibili.com##DIV.d-f-s.h5-download-bar.clearfix
+||homepage-gw.jd.com/datastream/homeExpo?expoLog*
+||amanda-cle.info/1f866.com?adTagId=2e358950-a8f0-11eb-9027-0a0e703b78cf&fallbackUrl
 ||bigdata-behaviordata.189.cn^
 ||bkssl.bdimg.com/static/wiki-m-lemma/widget/component-n/inlink-n/inlinkPlayer/logMap_9b3e38f.js^
 ||track.sohu.com^
@@ -201,6 +217,7 @@ baike.baidu.com##DIV.floatTashuo-list-wrapper
 ||cdn.cnbj1.fds.api.mi-img.com^$app=com.duokan.phone.remotecontroller,important
 ||img14.360buyimg.com^$app=com.sinovatech.unicom.ui
 @@||wapact.189.cn^$app=com.ct.client
+@@||krtservice.com^$app=com.tencent.mm
 @@||api.stackcommerce.net/graphql$domain=stacksocial.com
 @@||vali.cp31.ott.cibntv.net^$domain=m.youku.com
 @@||wxforum.sanguosha.cn^$domain=servicewechat.com,app=com.tencent.mm
@@ -208,6 +225,7 @@ baike.baidu.com##DIV.floatTashuo-list-wrapper
 @@||wgo.mmstat.com^$app=com.eg.android.AlipayGphone
 @@||cmbchina.com^$app=cmb.pb
 @@||weijuju.com^$app=cmb.pb
+@@||learn-vue.zuoyebang.com^$removeparam=cuid,app=com.baidu.homework
 @@||wapjx.189.cn^$app=com.tencent.mm
 @@||pupu.live^$domain=pupu.live
 @@||file-1253773788.file.myqcloud.com^
@@ -225,3 +243,5 @@ baike.baidu.com##DIV.floatTashuo-list-wrapper
 @@||solar.fbcontent.cn^
 @@||ape-api.yuanfudao.com^
 @@||xyst.yuanfudao.com^
+@@||frodo.douban.com^$app=com.tencent.mm
+@@||site.cc.cmbimg.com/CpBusinessWeb^$app=com.cmbchina.ccd.pluto.cmbActivity
