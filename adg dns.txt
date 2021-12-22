@@ -81,7 +81,6 @@
 ||log-gather-hb.jdcloud.com^
 ||client-push.21cn.com^
 ||tbsone.imtt.qq.com^
-||cdn.cnbj1.fds.api.mi-img.com^
 ||analytics.10010.com^
 ||m1.img.10010.com^
 ||pushservice.10010.com^
