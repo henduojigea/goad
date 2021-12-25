@@ -26,7 +26,6 @@
 ||mercury-sdk.snssdk.com^
 ||ts.qq.com^
 ||bbc.com^
-||byteimg.com^
 ||qianbao.qq.com^
 ||c.adsco.re^
 ||tbsrecovery.xn--8mq86hdof72iqql9i9a^
