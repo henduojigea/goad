@@ -72,7 +72,6 @@ $removeparam=spss
 ||mercury-sdk.snssdk.com^
 ||mgsv.miguvideo.com/app-management/v1/staticcache/settings/provincialsdk/TIP_STYLE$app=com.jx.cmcc.ict.ibelieve
 ||mcmm.caiyun.feixin.10086.cn/mcmm/api/IAdvert
-||byteimg.com^$app=com.chinatelecom.bestpayclient
 ||mapi.bestpay.com.cn/gapi/growth/byteDance/queryVideoTab^
 ||img10.360buyimg.com/mcmktadmin/jfs/t1/*png?width=933&height=180^
 ||img10.360buyimg.com/mcmktresadmin/jfs/*.png?width=1125&height=2080$app=com.jd.jrapp
