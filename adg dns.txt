@@ -11,8 +11,6 @@
 ||appgoad.189.cn^
 ||p9-passport.byteacctimg.com^
 ||pv.sohu.com^
-||dg.k.jd.com^
-||kepler.jd.com^
 ||orbit.jd.com^
 ||dm-hl.toutiao.com^
 ||dns.weixin.qq.com^
