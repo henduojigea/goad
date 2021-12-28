@@ -163,7 +163,6 @@ m.baidu.com##DIV.c-line-clamp2.c-vid-title.c-gap-top-lh.c-gap-right-middle.c-fon
 ||hls.liveshow.lss-user.baidubce.com^
 !
 作业帮
-||apiugc.zybang.com^$important
 ||tbsrecovery.imtt.qq.com^$app=com.baidu.homework
 ||shumei-app-thirdpart.zuoyebang.com^
 ||cube.zuoyebang.com^
