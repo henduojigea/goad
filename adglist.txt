@@ -263,7 +263,6 @@ baike.baidu.com##DIV.floatTashuo-list-wrapper
 ||pull.free.video.10010.com^
 ||m1.ad.10010.com^
 ||m.client.10010.com/mobileService/customer/getclientconfig.htm^
-||m1.img.10010.com^
 ||m.mpl.dutils.com/tcp/config/init$app=com.sinovatech.unicom.ui
 ||tnc3-bjlgy.snssdk.com^$app=com.sinovatech.unicom.ui
 ||api.map.baidu.com^$app=com.sinovatech.unicom.ui
