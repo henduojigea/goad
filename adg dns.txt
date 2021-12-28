@@ -79,7 +79,6 @@
 ||client-push.21cn.com^
 ||tbsone.imtt.qq.com^
 ||analytics.10010.com^
-||m1.img.10010.com^
 ||pushservice.10010.com^
 ||m.qianbao.qq.com^
 ||onekey.cmpassport.com^
