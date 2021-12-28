@@ -53,12 +53,9 @@
 ||coolapk.com/v6/main/indexV?$replace=/extra_entities//
 ||coolapk.com/v6/feed/detail?$replace=/extra_title//
 ||coolapk.com/v6/feed/detail?$replace=/include_goods//
-!去除"什么值得买"
 ||coolapk.com/v6/main/indexV8?$replace=/\{"entityType":"card"\,"entityTemplate":"listCard".*?\}\,\{"id/{"id/
-!去除热搜
 ||coolapk.com/v6/main/init?$replace=/\{"data":\[\{"entityType":"card"\,"entityTemplate":"textCard"\,"title":"\\u70ed\\u95e8\\u641c\\u7d22".*?\}\,\{"entityType":"card"\,"entityTemplate":"configCard"/\{"data":[\{"entityType":"card"\,"entityTemplate":"configCard"/
 ||coolapk.com/v6/search?type=hotSearch$replace=/\{"data":\[.*\]/{"data":[]/
-!去除随机应用推荐
 ||coolapk.com/v6/main/indexV8?$replace=/\,\{.*?"entityType": "card"\,"entityTemplate":"apkImageCard".*?\}\,\{"id"/,{"id"/
 ||httpdns.jdpay.com^
 ||203.107.1.97^
@@ -253,7 +250,7 @@ baike.baidu.com##DIV.floatTashuo-list-wrapper
 ||www.taobao.com^$app=com.zhihu.android
 ||cupdate.client.189.cn:8006/actives^
 ||appupdate.189.cn:9301/ClientUpdate/services^
-||appgoad.189.cn^$important
+||appgoad.189.cn^
 ||m.client.10010.com/mobileService/query/querySmartClient.htm$important
 ||m.client.10010.com/mobileserviceimportant/startIconQuickEntry/findIconInfomportant
 ||m.client.10010.com/mobileService/customerService/getDefaultAddress.htm$important
@@ -298,7 +295,7 @@ baike.baidu.com##DIV.floatTashuo-list-wrapper
 @@||mse.jd.com^$app=com.jd.jrapp
 @@||wapside.189.cn^
 @@||wt.189.cn^
-@@||xbk.189.cn^$important
+@@||xbk.189.cn^
 @@||mauvpc-static-resource.weijuju.com^$app=cmb.pb
 @@||api.cloud.189.cn/guns/img/popularServiceIcon/*.png
 @@||gm.mmstat.com^$app=com.eg.android.AlipayGphone
