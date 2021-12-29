@@ -51,7 +51,6 @@ cgzz5.com##div.jsimg
 ||m.360buyimg.com/mobilecms/s1080x2338_jfs^$image
 ||reports.365you.com/v4/report/clientReport
 ||wegame.365you.com^
-||mp.weixin.qq.com/mp/geticon*^
 ||119.29.29.29^$app=com.miui.player
 ||api.developer.xiaomi.com/autoupdate/updateself
 ||api.m.jd.com/client.action$replace=/targets//
