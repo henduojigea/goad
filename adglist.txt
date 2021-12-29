@@ -47,7 +47,7 @@
 ! 什么值得买
 ||user-api.smzdm.com/vip$replace=/big_banner//
 ||user-api.smzdm.com/vip$replace=/rows//
-!酷安"提到的好物"
+!酷安
 ||coolapk.com/v6/page/dataList?$replace=/extra_entities//
 ||coolapk.com/v6/feed/detail?$replace=/extra_entities//
 ||coolapk.com/v6/main/indexV?$replace=/extra_entities//
@@ -106,7 +106,7 @@ m.bilibili.com##DIV.launch-app-btn.home-float-openapp
 ||embedlog.duiba.com.cn^
 ||baishancdn.12317wan.com^
 m.speedtest.cn##DIV.tools-banner
-||img.zuoyebang.cc/zyb-image/*.gif|^
+||img.zuoyebang.cc/zyb-image/*.gif^
 ||127.82.38.80:37803^$network
 ||c.tieba.baidu.com/c/s/splashSchedule
 ||login.sina.com.cn/visitor/signin$app=com.baidu.tieba
@@ -159,8 +159,7 @@ m.baidu.com##ARTICLE.c-container._1UaLT.vid-fourfold__1WPrP._1CQx0
 m.baidu.com##DIV.c-line-clamp2.c-vid-title.c-gap-top-lh.c-gap-right-middle.c-font-title2-14,ARTICLE.c-container._1UaLT.vid-hor__1PCui._1CQx0
 ||bdstatic.com^$media
 ||hls.liveshow.lss-user.baidubce.com^
-!
-作业帮
+! 作业帮
 ||tbsrecovery.imtt.qq.com^$app=com.baidu.homework
 ||shumei-app-thirdpart.zuoyebang.com^
 ||cube.zuoyebang.com^
@@ -180,8 +179,6 @@ m.baidu.com##DIV.c-line-clamp2.c-vid-title.c-gap-top-lh.c-gap-right-middle.c-fon
 ||jx.zuoyebang.com/frontcourse/teach/summary/studenthascourse
 ||jx-fe.cdnjtzy.com/static/hy/sell-detail/js/chunk^$app=com.baidu.homework
 ||pluto.zuoyebang.com/pluto/publish/checkappupdate
-!
-分
 ||graph.facebook.com^$app=com.bilibili.app.in
 ||log.cmbchina.com^
 m.baidu.com##DIV.brand-entry
