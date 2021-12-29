@@ -5,7 +5,6 @@
 @@||passport.baidu.com^$stealth
 ||apiugc.zybang.com^
 ||cgi.connect.qq.com/qqconnectopen/openapi^
-||s-api.smzdm.com/sou/search_keyword_redirect_urls$replace=/out_h5//
 @@||m.client.10010.com/mobileserviceimportant/home/queryUserInfoSeven^
 ||m.client.10010.com/mobileService/recommend2^
 ||m.client.10010.com/video_zone^
