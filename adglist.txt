@@ -21,10 +21,6 @@
 /logger^
 /tracking^
 /track^
-/ads^
-/ad^
-/log^
-/logs^
 ||httpdns.
 ||analytics-api-01.smzdm.com^
 ||vas-hl-x.snssdk.com^
