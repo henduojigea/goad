@@ -184,7 +184,6 @@ m.smzdm.com##.footer-banner
 ||m.baidu.com/sugrec^
 baidu.com$$div[data-log="haokan"]
 baidu.com$$div[data-log="vsearch"]
-baidu.com$$div[data-log="image"]
 baidu.com$$div[data-log="note"]
 baidu.com$$div[data-log="b2b.baidu.com"]
 baidu.com$$div[data-log="ad"]
