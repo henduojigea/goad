@@ -1,4 +1,26 @@
 ! 自用规则
+baidu.com$$div[data-log="video"]
+||182.254.116.117^
+@@||www.dnspod.cn^
+@@||file.qqcn.xyz/GJZS^
+||alisitecdn.m.taobao.com/minidata/shop/index2$replace=/2275//
+||s-api.smzdm.com/sou/filter/tags/hot_tags^
+||s-api.smzdm.com/sou/search_keyword_redirect_urls^
+||haojia.m.smzdm.com/detail_modul/wiki_related_modul^
+||s-api.smzdm.com/sou/list_v10$replace=/25012//
+||s-api.smzdm.com/sou/list_v10$replace=/23001//
+||homepage-api.smzdm.com/v3/home$replace=/22001//
+||homepage-api.smzdm.com/v3/home$replace=/22002//
+||homepage-api.smzdm.com/v3/home$replace=/23008//
+||m.bilibili.com^$removeparam=h5_buvid
+||m.bilibili.com^$removeparam=spmid
+||app-api.smzdm.com/util/api/warning_notice^
+||app-api.smzdm.com/util/update^
+||app-api.smzdm.com/util/loading$replace=/out_h5//
+||app-api.smzdm.com/util/loading$replace=/ad//
+@@||m.tv9box.com^$stealth
+||homepage-api.smzdm.com/v3/home$replace=/banner//
+||m.client.10010.com/mobileService/onLine.htm
 ||m.client.10010.com/mobileService/onLine.htm
 @@||cdn.dcloud.net.cn^$app=com.tencent.mm,stealth
 ||napi.zybang.com/napi/stat/checkappinfo
