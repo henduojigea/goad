@@ -30,7 +30,6 @@
 ||log.avlyun.com^
 ||logserver.jx139.com^
 ||log.iflytek.com^
-||amdc.alipay.com^
 ||acs.m.taobao.com^
 ||bkvv.video.qq.com^
 ||info.zb.qq.com^
