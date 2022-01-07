@@ -54,7 +54,6 @@ baidu.com$$div[data-log="video"]
 ||logs.
 ||log.
 ||analytics.
-||amdc.alipay.com/squery
 ||click.suning.cn/sa^
 cgzz5.com##div.jsimg
 ||sc-thor.vip.com/vips-mobile-rtacker/wx/batch/log
@@ -123,7 +122,6 @@ cgzz5.com##div.jsimg
 ||coolapk.com/v6/main/indexV8?$replace=/\,\{.*?"entityType": "card"\,"entityTemplate":"apkImageCard".*?\}\,\{"id"/,{"id"/
 ||httpdns.jdpay.com^
 ||203.107.1.97^
-||amdc.alipay.com/query
 $removeparam=baike_source
 $removeparam=spss
 ||dns.weixin.qq.com^
