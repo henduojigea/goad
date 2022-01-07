@@ -1,7 +1,6 @@
 ! 自用规则
 baidu.com$$div[data-log="video"]
 ||182.254.116.117^
-@@||www.dnspod.cn^
 @@||file.qqcn.xyz/GJZS^
 ||alisitecdn.m.taobao.com/minidata/shop/index2$replace=/2275//
 ||s-api.smzdm.com/sou/filter/tags/hot_tags^
