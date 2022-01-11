@@ -1,4 +1,22 @@
 ! 自用规则
+||msg.zybang.com/message/news/unread
+||api3.ssmobi.cn:8082/sweepPackTrack
+||m.client.10010.com/myPrizeForActivity/openServices^
+||m.client.10010.com/mobileserviceNine/wisdom/precisionKey
+||m.client.10010.com/mobileserviceNine/wisdom/omoQuery
+||m.client.10010.com/mobileserviceNine/wisdom/backGroundQuery
+||m1.ad.10010.com^$important
+||test.cwxugn.com/log
+||apiprac.zuoyebang.com/practice/evaluation/resultv2$replace=/cards//
+||apiprac.zuoyebang.com/practice/evaluation/resultv2$replace=/teacherComment//
+||apiprac.zuoyebang.com/practice/evaluation/resultv2$replace=/feelSection//
+||apiprac.zuoyebang.com/practice/evaluation/resultv2$replace=/popInfo//
+||api.m.jd.com/client.action$replace=/"floatLayerStyle":"1"//"floatLayerStyle":"0"/
+||api.m.jd.com/client.action$replace=/commonBanner//
+||api.m.jd.com/client.action$replace=/bigSaleTip//
+||api.m.jd.com/client.action$replace=/bottomBanner//
+@@||cloud.189.cn/web^$Document
+||amdc.alipay.com^
 baidu.com$$div[data-log="video"]
 ||182.254.116.117^
 @@||file.qqcn.xyz/GJZS^
