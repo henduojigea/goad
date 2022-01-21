@@ -48,7 +48,6 @@
 ||tnc3-alisc1.snssdk.com^
 ||tingyun.bestpay.cn^
 ||mercury-sdk.snssdk.com^
-||ts.qq.com^
 ||bbc.com^
 ||qianbao.qq.com^
 ||c.adsco.re^
