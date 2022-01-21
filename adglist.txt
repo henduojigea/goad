@@ -296,7 +296,6 @@ baike.baidu.com##DIV.floatTashuo-list-wrapper
 ||mllog.jd.com^
 ||log-gather-hb.jdcloud.com^
 ||client-push.21cn.com^
-||tbsone.imtt.qq.com^
 ||dldir1.qq.com/invc/tt/QB/Public/plugin/native_ad^
 ||analytics.10010.com^
 ||pushservice.10010.com^
