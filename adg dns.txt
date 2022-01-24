@@ -22,7 +22,6 @@
 ||pv.sohu.com^
 ||orbit.jd.com^
 ||dm-hl.toutiao.com^
-||dns.weixin.qq.com^
 ||dns.jd.com^
 ||tnc3-bjlgy.snssdk.com^
 ||access1.tpns.tencent.com^
