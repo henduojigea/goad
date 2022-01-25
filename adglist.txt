@@ -87,7 +87,6 @@ cgzz5.com##div.jsimg
 ||api.m.jd.com/client.action$replace=/topTab//
 ||api.m.jd.com/client.action$replace=/photoCeiling//
 ||api.m.jd.com/client.action$replace=/xviewGuide//
-||api.m.jd.com/client.action$replace=/webView//
 ||api.m.jd.com/client.action$replace=/lbsTopTab//
 ||api.m.jd.com/client.action$replace=/topRotate//
 ||api.m.jd.com/client.action$replace=/float//
