@@ -16,7 +16,6 @@
 ||api.m.jd.com/client.action$replace=/bigSaleTip//
 ||api.m.jd.com/client.action$replace=/bottomBanner//
 @@||cloud.189.cn/web^$Document
-||amdc.alipay.com^
 baidu.com$$div[data-log="video"]
 ||182.254.116.117^
 @@||file.qqcn.xyz/GJZS^
@@ -128,7 +127,6 @@ cgzz5.com##div.jsimg
 ||203.107.1.97^
 $removeparam=baike_source
 $removeparam=spss
-||dns.weixin.qq.com^
 ||api.zhihu.com/log_collect/analysis
 ||119.29.29.99^
 ||img10.360buyimg.com/mcmktresadmin/jfs/*.jpg?width=1125&height=2080$app=com.jd.jrapp
