@@ -11,7 +11,6 @@
 ||apiprac.zuoyebang.com/practice/evaluation/resultv2$replace=/teacherComment//
 ||apiprac.zuoyebang.com/practice/evaluation/resultv2$replace=/feelSection//
 ||apiprac.zuoyebang.com/practice/evaluation/resultv2$replace=/popInfo//
-||api.m.jd.com/client.action$replace=/"floatLayerStyle":"1"//"floatLayerStyle":"0"/
 ||api.m.jd.com/client.action$replace=/commonBanner//
 ||api.m.jd.com/client.action$replace=/bigSaleTip//
 ||api.m.jd.com/client.action$replace=/bottomBanner//
@@ -77,7 +76,6 @@ cgzz5.com##div.jsimg
 @@||jx5.178du.com^$stealth,domain=m.tv9box.com
 ||360buyimg.com^$domain=m.tv9box.com
 ||s.pc.qq.com^$domain=m.tv9box.com
-||api.m.jd.com/client.action$replace=/floatLayer//
 ||api.m.jd.com/client.action$replace=/hstnew//
 ||api.m.jd.com/client.action$replace=/biSearchWordList//
 ||api.m.jd.com/client.action$replace=/searchWordList//
@@ -88,7 +86,6 @@ cgzz5.com##div.jsimg
 ||api.m.jd.com/client.action$replace=/xviewGuide//
 ||api.m.jd.com/client.action$replace=/lbsTopTab//
 ||api.m.jd.com/client.action$replace=/topRotate//
-||api.m.jd.com/client.action$replace=/float//
 ||api.m.jd.com/client.action$replace=/searchIcon//
 ||api.m.jd.com/client.action$replace=/hybrid//
 ||api.m.jd.com/client.action$replace=/banner//
