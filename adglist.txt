@@ -92,17 +92,6 @@ cgzz5.com##div.jsimg
 ||api.m.jd.com/client.action$replace=/extension_id//
 ||haojia.m.smzdm.com/detail_modul/other_modul$replace=/banner//
 ||article-api.smzdm.com/zhiyoushuo/shaiwu_detail$replace=/ad2reldk//
-||app.market.xiaomi.com/apm/recommend/upgradepage$replace=/recApps//
-||app.market.xiaomi.com/apm/recommend/upgradepage$replace=/recZone//
-||app.market.xiaomi.com/apm/zone/myPageV2$replace=/nativeMyPageCarouselBanner//
-||app.market.xiaomi.com/apm/featuredV4$replace=/CategoryName//
-||app.market.xiaomi.com/apm/featuredV4$replace=/nativeFeaturedHorizontalVideoList//
-!MIUI商店
-||app.market.xiaomi.com/apm/zone/find_what_you_love$replace=/bannerList//
-||app.market.xiaomi.com/apm/zone/find_what_you_love$replace=/adsTagId//
-||app.market.xiaomi.com/apm/zone/find_what_you_love$replace=/listApp//
-||app.market.xiaomi.com/apm/search/hotword$replace=/extraHotWords//
-||app.market.xiaomi.com/apm/search/hotword$replace=/hotWord//
 ! 京东
 ||api.m.jd.com/client.action$replace=/biSearchWordList//
 ||api.m.jd.com/client.action$replace=/searchWordList//
